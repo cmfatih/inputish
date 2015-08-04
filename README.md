@@ -24,7 +24,7 @@ Licensed under The MIT License (MIT)
 For the full copyright and license information, please view the LICENSE.txt file.
 
 [npm-url]: http://npmjs.org/package/inputish
-[npm-image]: https://badge.fury.io/js/inputish
+[npm-image]: https://badge.fury.io/js/inputish.png
 
 [travis-url]: https://travis-ci.org/cmfatih/inputish
 [travis-image]: https://travis-ci.org/cmfatih/inputish.svg?branch=master
