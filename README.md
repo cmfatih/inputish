@@ -1,24 +1,24 @@
-## inputish
+# inputish
 
 [![NPM][npm-image]][npm-url] [![Build Status][travis-image]][travis-url]
 
-# UNDER DEVELOPMENT
+Input handler
 
-...
+## UNDER DEVELOPMENT
 
-### Installation
+## Installation
 
-```
+```bash
 npm install inputish
 ```
 
-### Usage
+## Usage
 
-```
+```bash
 echo hello world | bin/inputish
 ```
 
-### License
+## License
 
 Licensed under The MIT License (MIT)  
 For the full copyright and license information, please view the LICENSE.txt file.
@@ -26,5 +26,5 @@ For the full copyright and license information, please view the LICENSE.txt file
 [npm-url]: http://npmjs.org/package/inputish
 [npm-image]: https://badge.fury.io/js/inputish.svg
 
-[travis-url]: https://travis-ci.org/fatihcode/inputish
-[travis-image]: https://travis-ci.org/fatihcode/inputish.svg?branch=master
+[travis-url]: https://travis-ci.org/devfacet/inputish
+[travis-image]: https://travis-ci.org/devfacet/inputish.svg?branch=master
